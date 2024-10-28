@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/bmo_bass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bmo_bass" height="30" width="40" /></a>
+<a href="https://instagram.com/matt.pame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bmo_bass" height="30" width="40" /></a>
 <a href="https://discord.gg/mattpame" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mattpame" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
